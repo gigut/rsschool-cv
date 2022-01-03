@@ -84,6 +84,7 @@ body {
   .nav-list {
     display: flex;
     justify-content: space-around;
+    padding: 7px 0px;
   }
   
   .nav-link {
@@ -92,6 +93,7 @@ body {
     font-weight: 600;
     border-bottom: solid #200e53 1px;
   }
+  
   
   #code-ex {
     line-height: 20px;
